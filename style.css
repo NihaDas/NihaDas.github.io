@@ -1,0 +1,37 @@
+.pic1 {
+  border: solid black;
+  position: center;
+  overflow: hidden;
+}
+
+.head {
+	font-family: 'Marck Script', cursive;
+  text-align: center;
+  display: grid;
+  background-color: #FCEFFC;
+  width: 100%;
+  font-size: 1.5em;
+}
+
+.para1, .para3, .para5 {
+  font-family: 'Marck Script', cursive;
+  display: grid;
+  background-color: #FDF9FD;
+  text-align: justify;
+  width: 100%;
+  font-size: 1.5em;
+}
+
+.para2, .para4{
+  font-family: 'Marck Script', cursive;
+  display: grid;
+  background-color: white;
+  text-align: justify;
+  width: 100%;
+  font-size: 1.5em;
+}
+
+.pic2 {
+  position: relative;
+  left: 500px;
+}
