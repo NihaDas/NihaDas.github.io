@@ -2,6 +2,8 @@
   border: solid black;
   position: center;
   object-fit: cover;
+  width: 1366px;
+  height: 400px;
 }
 
 .head {
@@ -34,4 +36,6 @@
 .pic2 {
   position: relative;
   object-fit: cover;
+  width: 1200px;
+  height: 400px;
 }
