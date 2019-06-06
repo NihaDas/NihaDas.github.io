@@ -1,7 +1,7 @@
 .pic1 {
   border: solid black;
   position: center;
-  overflow: hidden;
+  object-fit: cover;
 }
 
 .head {
@@ -33,5 +33,5 @@
 
 .pic2 {
   position: relative;
-  left: 500px;
+  object-fit: cover;
 }
