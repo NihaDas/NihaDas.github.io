@@ -1,9 +1,6 @@
 .pic1, .pic2, .pic3, .pic4, .pic5 {
   border: solid black;
-  position: center;
-  object-fit: cover;
   width: 100%;
-  height: 400px;
 }
 
 .head {
