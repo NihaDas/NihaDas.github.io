@@ -1,4 +1,4 @@
-.pic1 {
+.pic1, .pic2, .pic3, .pic4, .pic5 {
   border: solid black;
   position: center;
   object-fit: cover;
@@ -31,11 +31,4 @@
   text-align: justify;
   width: 100%;
   font-size: 1.5em;
-}
-
-.pic2 {
-  position: relative;
-  object-fit: cover;
-  width: 1200px;
-  height: 400px;
 }
