@@ -35,24 +35,6 @@ body3{
   justify-content: center;
 }
 
-body{
-  background: #252729;
-  height: 100%;
-  font: 400 16px "Arial", cursive, sans-serif;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
- 
-
-footer {
-  text-align: center;
-  padding: 3px;
-  background-color: white;
-  color: #313438;
-}
-
 
 body4{
   background: #252729;
@@ -196,4 +178,23 @@ footer {
   max-width: 100%;
   width: 100%;
   height: auto;
+}
+
+
+body{
+  background: #252729;
+  height: 100%;
+  font: 400 16px "Arial", cursive, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+ 
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: Black;
+  color: white;
 }
